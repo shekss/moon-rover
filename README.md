@@ -16,6 +16,6 @@ moon-rover
    repo. 
 
 Besides the basic test, think about what other aspects of the rover's behaviour
-would you like to test. 
+you would like to test. 
 
 The test should take you no more than an hour. 
