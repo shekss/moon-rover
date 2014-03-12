@@ -6,7 +6,8 @@ moon-rover
 1. Fork this project into your own github account as a public repo. 
 1. Using the rpsec tests as a rough guide, write a feature or 
    features that tests the rover's existing functionality (we've added a 
-   simple feature file to help get you started). 
+   simple feature file to help get you started).  This should include
+   all required step definitions.
 1. Correct any errors or issues you find with the application or
    existing tests while you work. 
 1. Show your work with regular, commented git commits. 
