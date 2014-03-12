@@ -1,7 +1,7 @@
 moon-rover
 ==========
 
-# Test Friday's Jade Rabbit clone moon rover.
+## Test Friday's Jade Rabbit clone moon rover.
 
 1. Fork this project into your own github account as a public repo. 
 1. Using the rpsec tests as a rough guide, write a feature or 
